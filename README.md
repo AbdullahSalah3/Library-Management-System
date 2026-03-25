@@ -360,9 +360,8 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 
 > 📌 *Replace with your real information.*
 
-**Developer** — [@your-username](https://github.com/your-username)
+**Developer** — [abdullah Salah](https://github.com/AbdullahSalah3)
 
-📧 Email: `your.email@example.com`
 
 🔗 Project: [https://github.com/your-username/library-management-system](https://github.com/your-username/library-management-system)
 
@@ -372,7 +371,7 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 
 <br/>
 
-Built with ☕ Java — no database, no dependencies, just clean code
+Built with ☕ Java — just clean code
 
 <br/>
 
